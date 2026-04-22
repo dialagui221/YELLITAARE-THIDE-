@@ -1,0 +1,17 @@
+{
+  "name": "YELLITAARE Thide",
+  "short_name": "YELLITAARE",
+  "description": "Organisation communautaire inclusive avec adhesion en ligne.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#FDFCF8",
+  "theme_color": "#1A5C2A",
+  "icons": [
+    {
+      "src": "logo-thide.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
